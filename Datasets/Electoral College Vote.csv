@@ -1,0 +1,51 @@
+State,Total,Biden,Trump,Harris,Pence,Win,WinLose
+Alaska,3,,3,,3,1,Biden
+Arizona,11,11,,11,,0,Trump
+Arkansas,6,,6,,6,1,Biden
+California,55,55,,55,,0,Trump
+Colorado,9,9,,9,,0,Trump
+Connecticut,7,7,,7,,0,Trump
+Delaware,3,3,,3,,0,Trump
+District of Columbia,3,3,,3,,0,Trump
+Florida,29,,29,,29,1,Biden
+Georgia,16,16,,16,,0,Trump
+Hawaii,4,4,,4,,0,Trump
+Idaho,4,,4,,4,1,Biden
+Illinois,20,20,,20,,0,Trump
+Indiana,11,,11,,11,1,Biden
+Iowa,6,,6,,6,1,Biden
+Kansas,6,,6,,6,1,Biden
+Kentucky,8,,8,,8,1,Biden
+Louisiana,8,,8,,8,1,Biden
+Maine*,4,3,1,3,1,0,Trump
+Maryland,10,10,,10,,0,Trump
+Massachusetts,11,11,,11,,0,Trump
+Michigan,16,16,,16,,0,Trump
+Minnesota,10,10,,10,,0,Trump
+Mississippi,6,,6,,6,1,Biden
+Missouri,10,,10,,10,1,Biden
+Montana,3,,3,,3,1,Biden
+Nebraska**,5,1,4,1,4,1,Biden
+Nevada,6,6,,6,,0,Trump
+New Hampshire,4,4,,4,,0,Trump
+New Jersey,14,14,,14,,0,Trump
+New Mexico,5,5,,5,,0,Trump
+New York,29,29,,29,,0,Trump
+North Carolina,15,,15,,15,1,Biden
+North Dakota,3,,3,,3,1,Biden
+Ohio,18,,18,,18,1,Biden
+Oklahoma,7,,7,,7,1,Biden
+Oregon,7,7,,7,,0,Trump
+Pennsylvania,20,20,,20,,0,Trump
+Rhode Island,4,4,,4,,0,Trump
+South Carolina,9,,9,,9,1,Biden
+South Dakota,3,,3,,3,1,Biden
+Tennessee,11,,11,,11,1,Biden
+Texas,38,,38,,38,1,Biden
+Utah,6,,6,,6,1,Biden
+Vermont,3,3,,3,,0,Trump
+Virginia,13,13,,13,,0,Trump
+Washington,12,12,,12,,0,Trump
+West Virginia,5,,5,,5,1,Biden
+Wisconsin,10,10,,10,,0,Trump
+Wyoming,3,,3,,3,1,Biden
